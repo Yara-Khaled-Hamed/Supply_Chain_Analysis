@@ -30,24 +30,24 @@ Final Report : Osama Tarek
 - Showcase key findings through a well organized report.
 
 # Tools :
-Data Processing: Python, SQL
+- Data Processing: Python, SQL
 
-Analysis & Forecasting : Python
+- Analysis & Forecasting : Python
 
-Visualization : Power BI
+- Visualization : Power BI
 
-Documentation : Jupyter Notebook, Google Docs, GitHub
+- Documentation : Jupyter Notebook, Google Docs, GitHub
 
 # KPIs (Key Performance Indicators) :
-Revenue Generated: Total income from sales.
+- Revenue Generated: Total income from sales.
 
-Stock Levels: Current inventory status to balance supply and demand.
+- Stock Levels: Current inventory status to balance supply and demand.
 
-Lead Times: Time taken from order placement to delivery.
+- Lead Times: Time taken from order placement to delivery.
 
-Shipping Costs: Expenses incurred in transporting goods.
+- Shipping Costs: Expenses incurred in transporting goods.
 
-Defect Rates: Percentage of products failing quality checks.
+- Defect Rates: Percentage of products failing quality checks.
 
 # Project Process :
 Data Cleaning & Processing:
