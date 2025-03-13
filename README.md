@@ -5,11 +5,11 @@ Group Members & Roles :
 
 Team Leader : Osama Tarek
 
-Domain understanding : Hanin
+Domain understanding : Hanin Elsherif
 
 Data cleaning : Yara Khaled
 
-Data analysis : Mina 
+Data analysis : Mina Maher
 
 Dashboard design : Mohamed Hatem
 
