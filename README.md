@@ -4,32 +4,49 @@ Welcome to the Supply Chain Analysis Project repository. This project is designe
 Group Members & Roles :
 
 Team Leader : Osama Tarek
+
 Domain understanding : Hanin
+
 Data cleaning : Yara Khaled
+
 Data analysis : Mina 
+
 Dashboard design : Mohamed Hatem
+
 Final Report : Osama Tarek
 
 # Objectives :
 
-Understand the meta-data and its importance.
-Clean and preprocess raw data to ensure accuracy and reliability.
-Analyze the data to discover patterns and trends.
-Develop predictive models if necessary.
-Design an interactive dashboard for simple reports.
-Showcase key findings through a well organized report.
+- Understand the meta-data and its importance.
+  
+- Clean and preprocess raw data to ensure accuracy and reliability.
+
+- Analyze the data to discover patterns and trends.
+
+- Develop predictive models if necessary.
+
+- Design an interactive dashboard for simple reports.
+
+- Showcase key findings through a well organized report.
 
 # Tools :
 Data Processing: Python, SQL
+
 Analysis & Forecasting : Python
+
 Visualization : Power BI
+
 Documentation : Jupyter Notebook, Google Docs, GitHub
 
 # KPIs (Key Performance Indicators) :
 Revenue Generated: Total income from sales.
+
 Stock Levels: Current inventory status to balance supply and demand.
+
 Lead Times: Time taken from order placement to delivery.
+
 Shipping Costs: Expenses incurred in transporting goods.
+
 Defect Rates: Percentage of products failing quality checks.
 
 # Project Process :
