@@ -3,17 +3,9 @@ Welcome to the Supply Chain Analysis Project repository. This project is designe
 
 Group Members & Roles :
 
-Team Leader : Osama Tarek
-
-Domain understanding : Hanin Elsherif
-
-Data cleaning : Yara Khaled
-
-Data analysis : Mina Maher
+Data cleaning & Analysis: Yara Khaled
 
 Dashboard design : Mohamed Hatem
-
-Final Report : Osama Tarek
 
 # Objectives :
 
